@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 초보 유저 dnvkfnvk입니당🌱.<br>(아이디를 한타로 바꿔보세요)
 
 <!--
 **dnvkfnvk/dnvkfnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
